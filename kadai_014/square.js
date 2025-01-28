@@ -1,5 +1,5 @@
 const kadaiMultiplier = (square)=>{
-    console.log(square * square);
+    return square * square;
 }
 
-kadaiMultiplier(10)
+console.log(kadaiMultiplier(10));
